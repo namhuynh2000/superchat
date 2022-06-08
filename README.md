@@ -1,3 +1,6 @@
+Reference: https://www.youtube.com/watch?v=zQyrwxMPm88
+Demo: https://superchat-adde4.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
